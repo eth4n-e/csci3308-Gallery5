@@ -1,0 +1,45 @@
+Week 1 Meeting: 03/18/2024 6:00pm with TA. Full attendence.
+
+Decisions made:
+	Use random url for redirect url in APIs
+
+Alternative actions / options discussed:
+	28,000 credits for google maps api
+
+Follow up items:
+	Coding and UI
+	Set specific jobs with a few jobs for each person with both front end and back end.
+	Brainstorm new features we could implement
+	MinIO- object storage system review for blogs/pictures/
+	
+
+*************************************************************************************************
+Specific Dialogue:
+
+Roll call full attendence- Khizar leading
+What APIs we're using: Artsy and Google Maps.
+TA: What we are implementing:
+	Khizar
+		Login/ Register
+		Home page similar to pintrest
+		Follow people 
+		Upload pictures / 	Description to artwork
+		Download pictures
+		Events / Local interests
+		Review / Rate art
+TA: Nice to have features we might implement?
+	Ethan - follow artists
+
+Favorites button: browsing artworks page?
+
+Meeting this week: Khizar-yes, Saturday and Monday
+What did meeting cover: APIs and wirefrasmes
+Redirect question: use random url to create api app.
+
+TA: Give everyone a chance to do both front and backend.
+Question: Storage of database: Used in a container that is spun up in Azure where it is maintained.
+
+MinIO- object storage system
+
+Rehashed weekly plan moving forwards
+Update GitHub prior to Saturday.
